@@ -1,7 +1,7 @@
-*.facebook.com
-*.tiktok.*
-*.y8.*
-*.gamevui.*
-*.y81nguoi.*
-*.y82nguoi.*
-*.trochoiy8.*
+facebook.com
+tiktok.*
+y8.*
+gamevui.*
+y81nguoi.*
+y82nguoi.*
+trochoiy8.*
