@@ -1,2 +1,2 @@
 facebook.com
-y8.com
+*.y8.*
